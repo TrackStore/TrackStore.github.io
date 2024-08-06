@@ -1,10 +1,14 @@
+<!--
 <div align="center">
-  
+--> 
+
 # 🚙 Hill Climb Racing 2 Track Store
 
 A store of Hill Climb Racing 2 Track IDs
 
+<!--
 </div>
+-->
 
 ---
 
@@ -17,9 +21,13 @@ Want to help? Contributions are welcome!
 
 ---
 
+<!--
 <div align="center">
-  
+-->
+
 # 🚀 Coming soon 🚀
 ###### Inshaa Allaah!
 
+<!--
 </div>
+-->
